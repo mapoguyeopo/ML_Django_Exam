@@ -1,2 +1,2 @@
-# ML_Django_Exam
-Exam
+# MLWebTest
+ML Web application development test
